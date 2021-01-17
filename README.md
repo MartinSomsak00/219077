@@ -1,1 +1,5 @@
-# 219077
+# Projekt PP2
+Calculator 
+Martin Šomšák 219077
+
+
